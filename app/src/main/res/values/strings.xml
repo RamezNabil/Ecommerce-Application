@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+    <string name="sign_up">
+        <a href=""><u>SIGN UP</u></a>
+    </string>
+    <string name="forget">
+        <a href=""><u>Forgot your password?</u></a>
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>

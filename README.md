@@ -1,5 +1,5 @@
 # Ecommerce
- An e-commerce android application with Java, SQLite, and Google Maps API
+ An e-commerce android application made using Java, SQLite, and Google Maps API.
  
 <p float="left" align="middle">
  <img src="https://user-images.githubusercontent.com/38498534/126068089-f365ce7f-8ffd-4e9a-bdb5-f245a07ffe9b.jpeg" width="240" height="427">
